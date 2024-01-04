@@ -90,9 +90,6 @@
 					})
 				</script>
 
-
-				<!-- Ajout d'un bouton contact au menu -->
-
 				<?php
 
 				// On publie le shortcode
